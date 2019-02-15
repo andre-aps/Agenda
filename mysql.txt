@@ -1,0 +1,15 @@
+CREATE DATABASE agenda;
+
+CREATE TABLE `agenda`.`pessoa` ( 
+  `id` INT NOT NULL AUTO_INCREMENT , 
+  `nome` VARCHAR(25) NOT NULL , 
+  `nascimento` DATE NOT NULL , 
+  `endereco` VARCHAR(25) NOT NULL , 
+  `telefone` VARCHAR(15) NOT NULL , 
+  PRIMARY KEY (`id`)
+) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_general_ci;
+
+INSERT INTO `pessoa`(`nome`,`nascimento`,`endereco`,`telefone`) 
+  VALUES ('André','2001-10-02','Av. Feijão','1154784512'), 
+	 ('João','2010-12-01','Av. Arroz','1154879865'), 
+	 ('Maria','2002-02-15','Av. Salada','1145126587');
