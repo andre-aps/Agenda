@@ -1,2 +1,2 @@
-# PHP-MySQL
+# Agenda
 Crud utilizando PHP e MySQL.
