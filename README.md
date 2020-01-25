@@ -27,6 +27,8 @@ Será exibido um formulário como mostra a figura abaixo.
 
 ![formulario](https://user-images.githubusercontent.com/37241913/73038358-e89a4c80-3e30-11ea-9528-d3934361debe.jpg)
 
+Você pode utilizar o arquivo `mysql.txt` presente no projeto para criar a base dados, a tabela e alguns registros no banco de dados caso prefira.
+
 ## Versão
 Consulte as [tags neste repositório](https://github.com/andre-aps/Agenda/tree/v1.0).
 
