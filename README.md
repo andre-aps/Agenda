@@ -1,4 +1,7 @@
 # Projeto Agenda
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/agenda)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/agenda)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/agenda)
 
 O projeto Agenda foi desenvolvido utilizando a linguagem de programação PHP juntamente com MySQL e fornece um CRUD para gerenciar contatos.
 
